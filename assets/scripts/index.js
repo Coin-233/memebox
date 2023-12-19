@@ -1,4 +1,4 @@
-import config from './assets/scripts/config.js'
+import config from './config.js'
 
 const development = false
 const domParser = new DOMParser()
